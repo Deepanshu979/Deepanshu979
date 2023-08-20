@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshu979&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshu979" /> </p>
 
-- 🔭 I’m currently working on **News App**
+- 🔭 I’m currently working on **AI-SAAS**
 
 - 🌱 I’m currently learning **ReactJS**
 
